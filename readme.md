@@ -69,6 +69,22 @@
 ### Flag
 <img width="1369" height="48" alt="image" src="https://github.com/user-attachments/assets/d8f17d3b-4b9f-4cc6-923f-dcc954fdec8f" />
 
+## No 5
+### A
+<img width="680" height="36" alt="image" src="https://github.com/user-attachments/assets/cedf14dc-05e1-4a79-9086-939878c553d0" />
+
+<img width="1733" height="896" alt="image" src="https://github.com/user-attachments/assets/1aaaeb5e-79b1-4c1f-bf4f-81a92d1613ca" />
+
+### B
+<img width="467" height="38" alt="image" src="https://github.com/user-attachments/assets/6c74d036-c811-40d6-8cde-8c3a96f2a60c" />
+
+<img width="1747" height="892" alt="image" src="https://github.com/user-attachments/assets/cc16aa52-9d27-4951-b8e8-56460e97842a" />
+
+### C
+
+
+
+
 
 ## No 6
 ### A
