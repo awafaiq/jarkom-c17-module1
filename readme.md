@@ -18,7 +18,7 @@
 ### D
 <img width="933" height="38" alt="image" src="https://github.com/user-attachments/assets/5beb3d7a-5d86-454d-bc3b-4ac30704956c" />
 
-<img width="1739" height="889" alt="image" src="https://github.com/user-attachments/assets/7effc919-3daa-431e-ab8e-aa0f1e6ff49d" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/698704dd-52f8-4f9e-924a-b660b7d8447d" />
 
 ### Flag
 <img width="1355" height="39" alt="image" src="https://github.com/user-attachments/assets/4ae377bc-539b-42b1-9f57-5730d3b3683f" />
