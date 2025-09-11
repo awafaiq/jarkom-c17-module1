@@ -1,3 +1,31 @@
+## No 1
+
+### A
+<img width="526" height="36" alt="image" src="https://github.com/user-attachments/assets/7aa59251-aa25-4aa7-9662-b394f0fcf607" />
+
+<img width="1537" height="992" alt="image" src="https://github.com/user-attachments/assets/74c6c5e0-4b37-4867-a797-ac71627cc7fa" />
+
+### B
+<img width="613" height="37" alt="image" src="https://github.com/user-attachments/assets/0a695848-965a-4a9b-b7d5-ce12db6f2135" />
+
+<img width="1371" height="353" alt="image" src="https://github.com/user-attachments/assets/a45f5086-14f8-4af7-a7cc-fa449a633d7d" />
+
+### C
+<img width="690" height="42" alt="image" src="https://github.com/user-attachments/assets/6958a65f-512d-4b64-9982-811ff9cf1205" />
+
+<img width="1367" height="202" alt="image" src="https://github.com/user-attachments/assets/2919ecc2-6890-4752-9c43-4079f9dc6114" />
+
+### D
+<img width="933" height="38" alt="image" src="https://github.com/user-attachments/assets/5beb3d7a-5d86-454d-bc3b-4ac30704956c" />
+
+<img width="1739" height="889" alt="image" src="https://github.com/user-attachments/assets/7effc919-3daa-431e-ab8e-aa0f1e6ff49d" />
+
+### Flag
+<img width="1355" height="39" alt="image" src="https://github.com/user-attachments/assets/4ae377bc-539b-42b1-9f57-5730d3b3683f" />
+
+
+
+
 ## No 3
 ### A
 <img width="417" height="45" alt="image" src="https://github.com/user-attachments/assets/97fbcbac-5f14-43ff-8b45-c59a153da9cd" />
