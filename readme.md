@@ -81,10 +81,14 @@
 <img width="1747" height="892" alt="image" src="https://github.com/user-attachments/assets/cc16aa52-9d27-4951-b8e8-56460e97842a" />
 
 ### C
+<img width="465" height="35" alt="image" src="https://github.com/user-attachments/assets/4b909834-0e8a-4891-aa5a-c49875bac5a6" />
 
+<img width="1751" height="862" alt="image" src="https://github.com/user-attachments/assets/a91d9692-05f7-4018-b2ae-962a92cc0c81" />
 
+### D
+<img width="760" height="43" alt="image" src="https://github.com/user-attachments/assets/1874b7ea-a985-4d28-9c84-74520e648af7" />
 
-
+<img width="654" height="382" alt="image" src="https://github.com/user-attachments/assets/40f425df-5cad-4142-b882-bed70f1c2023" />
 
 ## No 6
 ### A
