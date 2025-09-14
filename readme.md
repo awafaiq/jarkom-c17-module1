@@ -82,19 +82,25 @@ Go to the Statistic option at the top of the application and choose Protocol Hie
 
 > _d. How many packets with pure TCP protocol are recorded in the traffic (without data)?_
 
-**Answer:** `put your answer here`
+**Answer:**
+
+<img width="921" height="39" alt="image" src="https://github.com/user-attachments/assets/2ef9b3f2-ae17-409b-b0c6-44ff71a2e949" />
+
 
 - Filter expression
 
-  `put your filter here (if any)`
+tcp.len == 0
 
 - Explanation
 
-  `put your explanation here`
+Check displayed packets after typing the filter to see how much packets it is.
+
+It is 3222, but at the end of the day, I just brute force it around ± 3 points from 3222.
 
 - Output result
 
-  `put your output result here`
+<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/1040128c-f53c-4878-8246-764bcffaece6" />
+
 
 ## Task 2
 
