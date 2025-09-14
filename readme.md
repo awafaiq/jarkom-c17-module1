@@ -14,6 +14,7 @@
 > _a. How many packets are recorded in the pcapng file?_
 
 **Answer:**
+
 <img width="526" height="36" alt="image" src="https://github.com/user-attachments/assets/7aa59251-aa25-4aa7-9662-b394f0fcf607" />
 
 - Filter expression
@@ -35,7 +36,8 @@ On the Wireshark Application after you open the pcapng file for soal1234 at the 
 
 > _b. How many types of protocol (totals) are recorded in the traffic?_
 
-**Answer:** 
+**Answer:**
+
 <img width="613" height="37" alt="image" src="https://github.com/user-attachments/assets/0a695848-965a-4a9b-b7d5-ce12db6f2135" />
 
 - Filter expression
@@ -58,6 +60,7 @@ Go to the Statistic option at the top of the application and choose Protocol Hie
 > _c. How many types of TCP-based applications protocol are recorded in the traffic?_
 
 **Answer:**
+
 <img width="690" height="42" alt="image" src="https://github.com/user-attachments/assets/6958a65f-512d-4b64-9982-811ff9cf1205" />
 
 - Filter expression
@@ -173,6 +176,7 @@ Go to the Statistic option at the top of the application and choose Protocol Hie
 > _a. In what port is the telnet client open?_
 
 **Answer:**
+
 <img width="417" height="45" alt="image" src="https://github.com/user-attachments/assets/97fbcbac-5f14-43ff-8b45-c59a153da9cd" />
 
 - Filter expression
@@ -195,6 +199,7 @@ search any telnet package and check the packet details. We will see its source p
 > _b. How many bytes of the response files are sent from the server?_
 
 **Answer:**
+
 <img width="525" height="45" alt="image" src="https://github.com/user-attachments/assets/30d5cea0-9fbf-439d-ab72-14f16d9177bf" />
 
 - Filter expression
@@ -218,6 +223,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _c. What telnet client's username is used to connect with the server?_
 
 **Answer:**
+
 <img width="758" height="45" alt="image" src="https://github.com/user-attachments/assets/7763dff0-e104-42dc-a263-86eaaef3233f" />
 
 - Filter expression
@@ -241,6 +247,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _d. What is the telnet client's password?_
 
 **Answer:**
+
 <img width="293" height="41" alt="image" src="https://github.com/user-attachments/assets/c947d8e2-c68b-40df-a75d-ed4d68447edc" />
 
 - Filter expression
@@ -270,6 +277,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _a. What is the first command that client wrote on telnet connection?_
 
 **Answer:**
+
 <img width="646" height="42" alt="image" src="https://github.com/user-attachments/assets/2d5a29e9-e4bd-42fc-8eb1-38f43abc399c" />
 
 - Filter expression
@@ -293,6 +301,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _b. What is the name of .txt file on the server (write with the extension)?_
 
 **Answer:**
+
 <img width="628" height="51" alt="image" src="https://github.com/user-attachments/assets/3c77d2e9-b774-48fc-89ea-518700aa0972" />
 
 - Filter expression
@@ -316,6 +325,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _c. What is the first word that the client inserted into the previous file?_
 
 **Answer:**
+
 <img width="788" height="53" alt="image" src="https://github.com/user-attachments/assets/8132908d-1e9a-4fdb-8829-98ec0b98b4a2" />
 
 
@@ -346,6 +356,7 @@ search any telnet package and pick one of those packages to follow its TCP Strea
 > _a. How many HTTP packets are recorded in the pcapng file?_
 
 **Answer:** 
+
 <img width="680" height="36" alt="image" src="https://github.com/user-attachments/assets/cedf14dc-05e1-4a79-9086-939878c553d0" />
 
 - Filter expression
@@ -368,6 +379,7 @@ Check displayed packets after typing the filter to see how much packets it is.
 > _b. How many response HTTP packets are recorded in the traffic?_
 
 **Answer:**
+
 <img width="467" height="38" alt="image" src="https://github.com/user-attachments/assets/6c74d036-c811-40d6-8cde-8c3a96f2a60c" />
 
 - Filter expression
@@ -390,6 +402,7 @@ Check displayed packets after typing the filter to see how much packets it is.
 > _c. How many HTTP packets that succeed?_
 
 **Answer:**
+
 <img width="465" height="35" alt="image" src="https://github.com/user-attachments/assets/4b909834-0e8a-4891-aa5a-c49875bac5a6" />
 
 - Filter expression
@@ -412,6 +425,7 @@ Check displayed packets after typing the filter to see how much packets it is. B
 > _d. What is the client HTTP IP Address in connection with other local machine?_
 
 **Answer:**
+
 <img width="760" height="43" alt="image" src="https://github.com/user-attachments/assets/1874b7ea-a985-4d28-9c84-74520e648af7" />
 
 - Filter expression
@@ -442,6 +456,7 @@ search any http package and pick one of those packages to follow its TCP Stream.
 > _a. Did you find the fake flag? Write it whole!_
 
 **Answer:**
+
 <img width="597" height="40" alt="image" src="https://github.com/user-attachments/assets/9479bb3c-6309-47e8-a503-bb86f2ac8db7" />
 
 - Filter expression
@@ -466,6 +481,7 @@ After you get a packet that has flag.txt on its info, follow its HTTP stream, an
 > _b. Write the written username and password! (format username:password)_
 
 **Answer:**
+
 <img width="754" height="50" alt="image" src="https://github.com/user-attachments/assets/ebc92f01-cce1-4870-9dfd-a2f6531028e5" />
 
 - Filter expression
@@ -496,6 +512,7 @@ Similar to previous sub-task, after you get a packet that has password on its in
 > _What is the image that is being requested by the client? (write with its extension)_
 
 **Answer:**
+
 <img width="701" height="42" alt="image" src="https://github.com/user-attachments/assets/339d5131-d8cd-483a-a057-ae5210e9a290" />
 
 
@@ -527,6 +544,7 @@ Because the question said 'image', the only possible extension that comes to min
 > _a. How many FTP packets are recorded in the pcapng file? (with the data)_
 
 **Answer:**
+
 <img width="873" height="46" alt="image" src="https://github.com/user-attachments/assets/16dc1f45-488e-43b9-aae3-830a8e77f278" />
 
 - Filter expression
@@ -550,6 +568,7 @@ Check displayed packets after typing the filter to see how much packets it is.
 > _b. What is the client's username and password in FTP connection? (write in following format username:password)_
 
 **Answer:**
+
 <img width="890" height="43" alt="image" src="https://github.com/user-attachments/assets/18999ca9-a661-4bf6-96e3-54ea4e4f8d1d" />
 
 - Filter expression
@@ -573,6 +592,7 @@ search any FTP package and pick one of those packages to follow its TCP Stream. 
 > _c. Apa command client untuk melihat direktori server yang dikirimkan dalam request packet?_
 
 **Answer:**
+
 <img width="882" height="42" alt="image" src="https://github.com/user-attachments/assets/55765c4c-7ba4-48c5-9914-13ce6bc1e495" />
 
 - Filter expression
@@ -602,6 +622,7 @@ search any FTP package and pick one of those packages to follow its TCP Stream. 
 > _a. What is the FTP server IP Address?_
 
 **Answer:**
+
 <img width="321" height="45" alt="image" src="https://github.com/user-attachments/assets/8b324ca7-b7ba-4209-8f9a-42da20539145" />
 
 - Filter expression
@@ -625,6 +646,7 @@ based from the conversation of 2 ftp packages, the conversation that is showed i
 > _b. How many files are there inside the FTP server directory?_
 
 **Answer:**
+
 <img width="558" height="39" alt="image" src="https://github.com/user-attachments/assets/a9e8307d-0e0d-4c4d-99c8-232e8a24adea" />
 
 - Filter expression
@@ -647,6 +669,7 @@ To check how much files, we will go to package that has LIST response (meaning t
 > _c. What are the filenames used in the page.html? (write the filebames with their extensions and separate them with comma ',')_
 
 **Answer:**
+
 <img width="1283" height="40" alt="image" src="https://github.com/user-attachments/assets/2670cb2e-49df-43ed-a750-ba286898a5e8" />
 
 - Filter expression
@@ -675,6 +698,7 @@ To check what is the name of the file on html file, we will go to package that h
 > _a. What is the filename that contains encoded string?_
 
 **Answer:**
+
 <img width="491" height="49" alt="image" src="https://github.com/user-attachments/assets/2d738c51-b24c-450f-9d45-bb94274ae44c" />
 
 - Filter expression
@@ -697,6 +721,7 @@ After listening the conversation based from the previous question, a package tha
 > _b. What is the filename of the previous file copy?_
 
 **Answer:**
+
 <img width="447" height="54" alt="image" src="https://github.com/user-attachments/assets/174b248a-62df-46b8-865a-0b8b8c248146" />
 
 - Filter expression
@@ -721,6 +746,7 @@ search any FTP package and pick one of those packages to follow its TCP Stream. 
 > _c. Apa decoded string dari file tersebut?_
 
 **Answer:**
+
 <img width="1374" height="59" alt="image" src="https://github.com/user-attachments/assets/7db6d09d-ed41-4426-858d-212c78252df9" />
 
 - Filter expression
@@ -743,6 +769,12 @@ This practicum is indeed very insightful for me. We are using Wireshark to sniff
 
 
 ## Problems
-The most frustrating question for me is number 2 where I cannot found any logical filter to get the exact number of the answer even after getting a hint until the practicum ends. I was so disappointed on myself, that I should just have use a good filter + a manual search to get the answer. Picture below is a representative of my emotion.
+The most frustrating question for me is number 2 where I cannot found any logical filter to get the exact number of the answer even after getting a hint until the practicum ends. I was so disappointed on myself, that I should just have use a good filter + a manual search to get the answer. Picture below is a representative of my emotion. 
 
 <img width="431" height="240" alt="image" src="https://github.com/user-attachments/assets/098faeb0-a5b1-4ed7-82b8-331a0d87a904" />
+
+p.s : I can't believe I placed first on the first hour of the practicum and then falling off to 103rd, a truly Agnes Tachyon moment.
+
+
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/8d1a592a-3b1a-4513-a137-6f18e391691a" />
+
